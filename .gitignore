@@ -1,0 +1,9 @@
+# Archivos binarios
+*.bin
+
+# Ejecutables
+create_tree
+search_value
+
+# Editor
+.vscode
