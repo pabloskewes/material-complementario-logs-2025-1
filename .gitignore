@@ -7,3 +7,4 @@ search_value
 
 # Editor
 .vscode
+.DS_Store
