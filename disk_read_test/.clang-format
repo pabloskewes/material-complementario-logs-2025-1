@@ -1,0 +1,17 @@
+BasedOnStyle: llvm
+AlignAfterOpenBracket: BlockIndent
+BreakBeforeBraces: Attach
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackParameters: false
+PenaltyBreakBeforeFirstCallParameter: 0
+
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: false
+  AfterClass: false
+  AfterEnum: false
+  BeforeCatch: false
+  BeforeElse: false
+
+AllowShortFunctionsOnASingleLine: false
+IndentWidth: 2
