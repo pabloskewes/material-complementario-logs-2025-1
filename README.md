@@ -14,3 +14,9 @@ Ejercicio de preparación para la Tarea 1, sobre serialización de árboles bina
   - El archivo `tree.cpp` debe ser implementado por el estudiante. Puede usar `tree_templ.cpp` como base.
 
 Más información en el [enunciado del ejercicio](serializacion_bst/enunciado/ejercicio_preparacion.pdf).
+
+### `quicksort_tornillos_y_tuercas/`
+
+Implementación del algoritmo de quicksort para ordenar tornillos y tuercas vista en el `Aux2-P1-b`.
+
+- `quicksort.ipynb`: notebook con el código.
