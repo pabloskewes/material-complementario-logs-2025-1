@@ -1,0 +1,5 @@
+# binarios
+*.bin
+
+# ejecutables
+disk_read_test
