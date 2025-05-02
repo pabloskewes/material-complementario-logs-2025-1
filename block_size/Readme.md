@@ -57,3 +57,7 @@ Tamaño de bloque (B): 4096 bytes
 ```
 
 Debería funcionar tanto en macOS como en Linux, incluyendo dentro de contenedores Docker como los usados en el curso.
+
+## Nota
+
+Se recomienda revisar el valor obtenido primero para asegurarse de que es correcto. De no funcionar, tendrías que buscar por tu cuenta cómo obtener el tamaño del bloque en tu sistema, o usar el valor por defecto de `B = 4096` bytes.
